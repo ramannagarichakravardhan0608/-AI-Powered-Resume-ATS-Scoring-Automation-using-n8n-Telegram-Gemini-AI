@@ -1,3 +1,5 @@
+<img width="2880" height="1412" alt="image" src="https://github.com/user-attachments/assets/411311e7-e356-40bd-aeaf-89c12c72f9d9" />
+
 🤖 AI-Powered Resume ATS Scoring & Automation using n8n, Telegram & Gemini AI
 
 🚀 This project is an end-to-end AI-powered automation system built using n8n, Telegram, Google Gemini AI, Google Sheets, Gmail, and PDF Extraction, that:
